@@ -7,9 +7,6 @@ inc/dbconfig.php
 rest/core/config.php
 mboard/constant.php
 
-# Dump file
-*.stackdump
-
 # Folder config file
 [Dd]esktop.ini
 
